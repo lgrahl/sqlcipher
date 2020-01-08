@@ -303,6 +303,7 @@ foreach file {
    crypto_nss.c
    crypto_openssl.c
    crypto_cc.c
+   crypto_bearssl.c
 
    global.c
    status.c
